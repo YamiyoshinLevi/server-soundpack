@@ -1,0 +1,18 @@
+{
+    "bloodmoon_normal": {
+        "sounds": [
+            {
+                "name": "tracks/bloodmoon_normal",
+                "stream": "true"
+            }
+        ]
+    },
+    "bloodmoon_rare": {
+        "sounds": [
+            {
+                "name": "tracks/bloodmoon_rare",
+                "stream": "true"
+            }
+        ]
+    }
+}
